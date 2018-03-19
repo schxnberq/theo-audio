@@ -1,0 +1,84 @@
+.coup-lite-upsell {
+    padding: 21px;
+    border-radius: 3px;
+    background: #fff;
+}
+
+.coup-lite-upsell .upsell-pro-label {
+    margin-right: 10px;
+    padding: 1px 6px 4px 7px;
+    border-radius: 3px;
+    color: #fff;
+    background: forestgreen;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: 0.1px;
+}
+
+.coup-lite-upsell-features li {
+    margin-bottom: 23px;
+    font-size: 14px;
+}
+
+.coup-lite-upsell-features li:last-child {
+    margin-bottom: 28px;
+}
+
+.coup-lite-upsell .button {
+    width: 100%;
+    margin-right: 21px;
+    text-align: center;
+    letter-spacing: 0.2px;
+}
+
+.coup-lite-upsell hr {
+    margin-top: 22px;
+    margin-bottom: 16px;
+}
+
+.coup-lite-upsell-feature-list li:before {
+    line-height: 37px;
+}
+
+.coup-lite-upsell-feature-list li {
+    margin-bottom: 6px;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 22px;
+}
+
+.coup-lite-upsell-feature-list li:last-child {
+    margin-bottom: 0;
+}
+
+.frontpage-sections-upsell {
+    padding: 10px 10px 11px 14px;
+}
+
+.coup-lite-boxed-section {
+    margin: 12px;
+}
+
+#customize-controls #accordion-section-coup_theme_info_main_section.control-section .accordion-section-title {
+    background-color: #0073aa;
+    border-left-color: #0073aa;
+    color: #fff;
+}
+#customize-controls #accordion-section-coup_theme_info_main_section.control-section .accordion-section-title:after {
+    color: #fff;
+}
+
+#customize-controls #accordion-section-coup_theme_info_main_section.control-section .accordion-section-title:hover {
+    color: #fff;
+    background-color: #208dc1;
+    border-left-color: #208dc1;
+}
+
+#customize-controls #accordion-section-coup_theme_info_main_section.control-section .accordion-section-title:hover:after {
+    color: #fff;
+}
+
+.upsell-pro-label:before {
+    content: "+";
+}

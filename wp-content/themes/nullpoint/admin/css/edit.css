@@ -1,0 +1,145 @@
+.fw-backend-option-type-icon .fa-nullpoint-ahimsa:before,
+.fw-backend-option-type-icon .fa-nullpoint-bamboo:before,
+.fw-backend-option-type-icon .fa-nullpoint-buddha:before,
+.fw-backend-option-type-icon .fa-nullpoint-buddha-light:before,
+.fw-backend-option-type-icon .fa-nullpoint-chakra:before,
+.fw-backend-option-type-icon .fa-nullpoint-fire:before,
+.fw-backend-option-type-icon .fa-nullpoint-flower:before,
+.fw-backend-option-type-icon .fa-nullpoint-ganesha:before,
+.fw-backend-option-type-icon .fa-nullpoint-ganesha-2:before,
+.fw-backend-option-type-icon .fa-nullpoint-girl:before,
+.fw-backend-option-type-icon .fa-nullpoint-india:before,
+.fw-backend-option-type-icon .fa-nullpoint-hand:before,
+.fw-backend-option-type-icon .fa-nullpoint-kois:before,
+.fw-backend-option-type-icon .fa-nullpoint-lotus:before,
+.fw-backend-option-type-icon .fa-nullpoint-mandala:before,
+.fw-backend-option-type-icon .fa-nullpoint-mandala-2:before,
+.fw-backend-option-type-icon .fa-nullpoint-mandala-3:before,
+.fw-backend-option-type-icon .fa-nullpoint-om:before,
+.fw-backend-option-type-icon .fa-nullpoint-om-light:before,
+.fw-backend-option-type-icon .fa-nullpoint-pagoda:before,
+.fw-backend-option-type-icon .fa-nullpoint-palm:before,
+.fw-backend-option-type-icon .fa-nullpoint-shiva:before,
+.fw-backend-option-type-icon .fa-nullpoint-tea:before,
+.fw-backend-option-type-icon .fa-nullpoint-vulva:before,
+.fw-backend-option-type-icon .fa-nullpoint-wheel:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-2:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-3:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-4:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-5:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-6:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-7:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-8:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-9:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-10:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-11:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-12:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-13:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-14:before,
+.fw-backend-option-type-icon .fa-nullpoint-yoga-15:before { 
+	line-height: 1px;
+}
+
+.fw-options-tabs-wrapper.ui-tabs {
+    padding: 0;
+	border: none;
+}
+
+.fw-options-tabs-wrapper > .fw-options-tabs-list ul, .fw-options-tabs-wrapper > .fw-options-tabs-list ul li {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+}
+
+.fw-options-tabs-wrapper > .fw-options-tabs-list ul li a.nav-tab {
+    margin-bottom: 0px !important;
+}
+
+/* Page Builder */
+
+#fw-backend-option-fw-edit-options-modal-responsive_behaviour_text,
+#fw-backend-option-fw-edit-options-modal-unique_design_text {
+	background-color: #444;
+}
+
+#fw-backend-option-fw-edit-options-modal-responsive_behaviour_text label,
+#fw-backend-option-fw-edit-options-modal-unique_design_text label {
+	color: #fff;
+	font-size: 25px;
+    line-height: 30px;
+}
+
+.fw-background-selector div {
+    float: left;
+    margin-right: 20px;
+}
+
+.fw-container-type-group .fw-backend-option-type-short-text {
+	width: 50px;
+    float: left;
+    padding: 20px 10px;
+}
+
+.fw-container-type-group .fw-backend-option-type-html {
+    float: left;
+    width: 18%;
+}
+
+/* Image Radio Buttons */
+.socials_radio_button_control .radio-button-label i {
+    padding: 2px;
+    font-size: 14px;
+}
+.image_radio_button_control .radio-button-label > input {
+	display: none;
+}
+.image_radio_button_control .radio-button-label > img {
+	cursor: pointer;
+	border: 3px solid #ddd;
+}
+.image_radio_button_control .radio-button-label > input:checked + img {
+	border: 3px solid #2885bb;
+}
+.image_radio_button_control .radio-button-label > i {
+	border: 2px solid transparent;
+}
+.image_radio_button_control .radio-button-label > input:checked + i {
+	border: 2px solid #2885bb;
+}
+
+/* Page Options */
+.page-option-holder {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.page-option-holder .page-option-label {
+    width: 18%;
+    display: inline-block;
+    font-size: 15px;
+    vertical-align: top;
+}
+
+.page-option-holder .page-option-content {
+    width: 75%;
+    display: inline-block;
+}
+
+.page-option-holder .page-option-content .radio-button-label {
+    display: inline-block;
+}
+
+.page-option-holder textarea {
+    width: 100%;
+    height: 100px;
+}
+
+#gallery-metabox-list li {
+  float: left;
+  width: 150px;
+  text-align: center;
+  margin: 10px 10px 10px 0;
+  cursor: move;
+}
